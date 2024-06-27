@@ -1,4 +1,4 @@
-<h1 align=center>Kubernetes Tutorials ｜ k8s 教程</h1>
+<h1 align=center>Kubernetes Tutorials ｜ k8s LEARNING教程</h1>
 <h2 align=center><a href="https://k8s-tutorials.pages.dev">Online Pages</a></h1>
 
 [![GitHub forks](https://img.shields.io/github/forks/guangzhengli/k8s-tutorials)](https://github.com/guangzhengli/k8s-tutorials/network)[![GitHub stars](https://img.shields.io/github/stars/guangzhengli/k8s-tutorials)](https://github.com/guangzhengli/k8s-tutorials/stargazers)[![GitHub issues](https://img.shields.io/github/issues/guangzhengli/k8s-tutorials)](https://github.com/guangzhengli/k8s-tutorials/issues)[![GitHub license](https://img.shields.io/github/license/guangzhengli/k8s-tutorials)](https://github.com/guangzhengli/k8s-tutorials/blob/main/LICENSE)![Docker Pulls](https://img.shields.io/docker/pulls/guangzhengli/hellok8s)
